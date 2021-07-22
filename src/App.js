@@ -6,7 +6,7 @@ import Contact from './components/Contact/Contact';
 import './App.css';
 
 const App = () => (
-  <main>
+  <main className='text-gray-400 bg-gray-900 body-font'>
     <NavBar />
     <About />
     <Projects />
